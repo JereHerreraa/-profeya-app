@@ -63,22 +63,3 @@ Integrante 3 — Thiago Cuevas
     * Diseño visual de formularios
     * Ajustes de interfaz
 
-⸻
-
-📸 Capturas de pantalla
-
-Landing principal
-
-[Insertar captura]
-
-Inicio de sesión
-
-[Insertar captura]
-
-Registro
-
-[Insertar captura]
-
-Versión responsive
-
-[Insertar captura
